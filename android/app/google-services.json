@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "538875524233",
+    "project_id": "ravanellifinaldatabase",
+    "storage_bucket": "ravanellifinaldatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538875524233:android:68c77dce4f3f5e2f778258",
+        "android_client_info": {
+          "package_name": "com.example.ravanelli_projeto_final_webdev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538875524233-gn5fmb4t0j6cpt4iclq5oo30mgebrlc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5QL1t8qZZSICg7xKO_naNu6XI86n4Esc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538875524233-gn5fmb4t0j6cpt4iclq5oo30mgebrlc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
